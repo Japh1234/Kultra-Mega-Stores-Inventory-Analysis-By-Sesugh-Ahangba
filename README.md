@@ -48,13 +48,6 @@ pip install pandas streamlit matplotlib
 streamlit run dashboard.py
 ```
 
-## 📈 Output
-- PDF Report with Visualizations ✅
-- CSV exports of answers ✅
-- Interactive Streamlit Dashboard ✅
-
----
-
-> Developed by [Your Name] | [Your Email]  
+> Developed by SESUGH AHANGBA | ahsesugh@gmail.com  
 > © 2025 Kultra Mega Stores (Case Study Project)
 
